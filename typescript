@@ -1,0 +1,44 @@
+Script started on Thu 13 Apr 2017 03:33:35 AM PDT
+sip2@ada:~/CS201/A1$ ./a.out
+The word is: over
+Over
+That is incorrect, try again
+The word is: over
+ov
+That is incorrect, try again
+The word is: over
+overrrrrrrrrrrrrrr
+That is incorrect, try again
+The word is: over
+
+over
+That is correct!
+The word is: quick
+quick
+That is correct!
+The word is: The
+The
+That is correct!
+The word is: dog
+dog
+That is correct!
+The word is: lazy
+lazy
+That is correct!
+The word is: jumps
+jumps
+That is correct!
+The word is: the
+the
+That is correct!
+The word is: fox
+fox
+That is correct!
+The word is: brown
+brown
+That is correct!
+34 seconds and 198163 usecs passed...
+sip2@ada:~/CS201/A1$ exit
+exit
+
+Script done on Thu 13 Apr 2017 03:34:18 AM PDT

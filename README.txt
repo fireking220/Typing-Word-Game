@@ -1,0 +1,1 @@
+This program takes the sentence, "The quick brown fox jumps over the lazy dog" and scrambles it using random numbers using the algorithm defined as the Fischer-Yates shuffle and presents it to the user. The user will write the words exactly and once they're finished, the computer will tell them their final time in seconds and usecs
